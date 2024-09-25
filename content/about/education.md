@@ -13,7 +13,7 @@ title: Education
 subtitle:
 
  #Date format for experience
-   Refer to https://docs.hugoblox.com/customization/#date-format
+   Refer to https://kohjinyeong.github.io/
 date_format: Jan 2006
 
  #Experiences.

@@ -1,6 +1,6 @@
 ---
 # An instance of the Contact widget.
-# Documentation: https://docs.hugoblox.com/getting-started/page-builder/
+Documentation: https://kohjinyeong.github.io/
 widget: contact
 
 # This file represents a page section.
