@@ -1,6 +1,6 @@
 ---
 # An instance of the Experience widget.
-# Documentation: https://docs.hugoblox.com/page-builder/
+ Documentation: https://docs.hugoblox.com/page-builder/
 widget: experience
 
 # This file represents a page section.
