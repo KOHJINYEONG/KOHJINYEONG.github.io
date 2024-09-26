@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: JINYEONG
+  - name: af
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
