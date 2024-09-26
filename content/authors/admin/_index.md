@@ -69,6 +69,4 @@ email: ""
 안녕하세요, 저는 22년도에 전북대학교 IT지능정보공학과에 입학하여 현재 3학년 재학중입니다.
 저의 꿈은 저희 학과 관련 진로를 택하는 것이지만 아직 구체적인 진로를 정하진 못했습니다. 저의 포트폴리오 홈페이지를 만드는 겸 여러 프로젝트도 해보면서 저의 진로를 찾아볼 계획입니다. 앞으로 화이팅
 
-
-
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
