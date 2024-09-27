@@ -10,12 +10,12 @@ main:
   - name: Introduce
     url: /about/
     weight: 20
-    - name: Project
+  - name: Project
     url: /projects/
     weight: 30
-    - name: Study
+  - name: Study
     url: /study/
     weight: 40
-    - name: Interest
+  - name: Interest
     url: /interest/
     weight: 50
