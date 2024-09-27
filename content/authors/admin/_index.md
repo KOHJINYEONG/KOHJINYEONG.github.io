@@ -1,6 +1,6 @@
 ---
 # Display name
-title: KHOJINYEONG
+title: 고진영
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,14 +14,14 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: af
+  - name: KOH JIN YEONG
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: "My research interests include distributed robotics, mobile computing and programmable matter."
 
 interests:
-  - Artificial Intelligence
+  - Java script
   - Computational Linguistics
   - Information Retrieval
 
@@ -46,9 +46,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "about/#contact" # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
