@@ -34,12 +34,23 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: right # r 대신 'right' 사용
     show_logo: false
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    fixed_to_top: true
+    blox: "navbar"
+    logo:
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.svg"
+    button:
+      enable: true
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/details/docs/"
+    show_theme_chooser: true
 
 footer:
   copyright:
