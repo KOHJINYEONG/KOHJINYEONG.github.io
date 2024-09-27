@@ -8,14 +8,14 @@ main:
     url: /
     weight: 10
   - name: Introduce
-    url: about/
+    url: /about/
     weight: 20
     - name: Project
-    url: /
+    url: /projects/
     weight: 30
     - name: Study
-    url: /
+    url: /study/
     weight: 40
     - name: Interest
-    url: /
+    url: /interest/
     weight: 50
