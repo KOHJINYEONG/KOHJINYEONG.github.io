@@ -88,11 +88,11 @@ features:
       category: ""
       category_id: ""
   search:
-    provider: ""
+    provider: "algolia"
     algolia:
-      app_id: ""
-      api_key: ""
-      index_name: ""
+      app_id: "TILIW12DOP"
+      api_key: "199abc116696cdc6f467e6ad8c3e899d"
+      index_name: "dev_contect"
       show_logo: true
   map:
     provider: ""
