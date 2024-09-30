@@ -34,15 +34,12 @@ marketing:
 header:
   navbar:
     enable: true
-    align: right
+    align: center
     show_logo: false
     show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
-
-params:
-  customCSS: ["css/center.css"]
 
 footer:
   copyright:

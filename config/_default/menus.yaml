@@ -19,3 +19,10 @@ main:
   - name: Interest
     url: /interest/
     weight: 50
+    submenu:
+      - name: 유튜브
+        url: /interest/inestest1/
+        weight: 51
+      - name: 블로그
+        url: /interest/inestest2/
+        weight: 52
