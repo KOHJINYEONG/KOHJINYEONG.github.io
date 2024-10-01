@@ -95,8 +95,8 @@ features:
       index_name: "dev_content"
       show_logo: true
   map:
-    provider: ""
-    api_key: ""
+    provider: "google_maps"
+    api_key: "AIzaSyDAWMtlLomWV9QjZ7321283Y5JQi3fsFdg"
     zoom: 15
 
 extensions:
