@@ -24,24 +24,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://csai.jbnu.ac.kr/csai/index.do
-    date_end: ""
-    date_start: "2022-03-02"
     description: ""
     organization: 전북대학교
     organization_url: https://csai.jbnu.ac.kr/csai/index.do
     title: 컴퓨터인공지능공학부
     url: ""
   - certificate_url: https://swuniv.jbnu.ac.kr/main/
-    date_end: ""
-    date_start: ""
     description: ""
     organization: 전북대학교
     organization_url: https://swuniv.jbnu.ac.kr/main/
     title: SW중심대학사업단
     url: ""
   - certificate_url: https://jedutools.jbnu.ac.kr/
-    date_end: "2020-12-21"
-    date_start: "2020-07-01"
     description: ""
     organization: 전북대학교
     organization_url: https://jedutools.jbnu.ac.kr/
