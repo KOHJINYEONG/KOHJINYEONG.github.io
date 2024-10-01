@@ -44,6 +44,6 @@ main:
       - name: 유튜브
         url: /interest/inestest1/
         weight: 51
-      - name: 블로그
+      - name: IT, 뉴스레터
         url: /interest/inestest2/
         weight: 52

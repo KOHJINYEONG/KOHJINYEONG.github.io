@@ -92,7 +92,7 @@ features:
     algolia:
       app_id: "TILIW12DOP"
       api_key: "199abc116696cdc6f467e6ad8c3e899d"
-      index_name: "dev_contect"
+      index_name: "dev_content"
       show_logo: true
   map:
     provider: ""
