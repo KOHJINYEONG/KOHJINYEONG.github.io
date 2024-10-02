@@ -7,43 +7,32 @@ main:
   - name: Home
     url: /
     weight: 10
+
   - name: Introduce
     url: /about/
     weight: 20
-    children:
-      - name: 소개
-        url: /about/about1/
-        weight: 21
-      - name: 오시는 길
-        url: /about/about2/
-        weight: 22
+
   - name: Project
     url: /projects/
-    weight: 30
-    children:
-      - name: 학교에서
-        url: /interest/project1/
-        weight: 31
-      - name: 개인적으로
-        url: /interest/project2/
-        weight: 32
+
   - name: Study
     url: /study/
     weight: 40
-    children:
-      - name: 계획
-        url: /interest/study1/
-        weight: 41
-      - name: 공부한 것
-        url: /interest/study2/
-        weight: 42
+    hasChildren: true
+  - parent: Study
+    name: 계획
+    url: /interest/study1/
+  - parent: Study
+    name: 공부한 것
+    url: /interest/study2/
+
   - name: Interest
     url: /interest/
     weight: 50
-    children:
-      - name: 유튜브
-        url: /interest/inestest1/
-        weight: 51
-      - name: IT, 뉴스레터
-        url: /interest/inestest2/
-        weight: 52
+    haChildren: true
+  - parent: Interest
+    name: 유튜브
+    url: /interest/inestest1/
+  - parent: Interest
+    name: IT, 뉴스레터
+    url: /interest/inestest2/

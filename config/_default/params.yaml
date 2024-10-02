@@ -34,11 +34,14 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: "navbar"
     align: center
+    fixed_to_top: true
     show_logo: false
     show_language: true
     show_day_night: true
     show_search: true
+    show_theme_chooser: true
     highlight_active_link: false
 
 footer:
@@ -87,13 +90,6 @@ features:
       repo_id: ""
       category: ""
       category_id: ""
-  search:
-    provider: "algolia"
-    algolia:
-      app_id: "TILIW12DOP"
-      api_key: "199abc116696cdc6f467e6ad8c3e899d"
-      index_name: "dev_content"
-      show_logo: true
   map:
     provider: "google_maps"
     api_key: "AIzaSyDAWMtlLomWV9QjZ7321283Y5JQi3fsFdg"
