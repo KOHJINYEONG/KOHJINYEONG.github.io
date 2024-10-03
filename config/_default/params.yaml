@@ -89,14 +89,9 @@ features:
       category: ""
       category_id: ""
   search:
-    provider: "algolia"
-    algolia:
-      app_id: "TILIW12DOP"
-      api_key: "199abc116696cdc6f467e6ad8c3e899d"
-      index_name: "initindex"
       show_logo: true
       show_theme_chooser: true
-      show_search: true
+  
   map:
     provider: "google_maps"
     api_key: "AIzaSyDAWMtlLomWV9QjZ7321283Y5JQi3fsFdg"
