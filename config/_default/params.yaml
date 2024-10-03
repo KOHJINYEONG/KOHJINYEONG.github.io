@@ -38,7 +38,7 @@ header:
     align: center
     fixed_to_top: true
     logo:
-      text: ""
+      text: "JINYEONG"
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     show_logo: true
@@ -94,9 +94,9 @@ features:
       repo_id: ""
       category: ""
       category_id: ""
-  #search:
-  #show_logo: true
-  #show_theme_chooser: true
+   search:
+    show_search: true
+    show_theme_chooser: true
 
   map:
     provider: "google_maps"
