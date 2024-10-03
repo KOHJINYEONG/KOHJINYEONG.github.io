@@ -4,10 +4,10 @@
 widget: youtube
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: 40
+#weight: 10
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: "관심있는 유튜브채널"
