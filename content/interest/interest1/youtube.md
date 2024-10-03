@@ -31,12 +31,12 @@ item:
     organization_url: https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ
     title: 노마드코더
     url: ""
-  - certificate_url:  https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w
+  - certificate_url: https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w
     date_end: ""
     date_start: "2021-01-01"
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: 코딩
-    organization_url:  https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w
+    organization_url: https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w
     title: 드림코딩 by 엘리
     url: ""
   - certificate_url: https://www.youtube.com/channel/UCv6qWqCUlp-_3NfWDqSEnNg

@@ -1,6 +1,6 @@
 ---
 # This file represents a page section.
-widget: about.avatar
+widget: portfolio
 headless: true
 
 title: ""
