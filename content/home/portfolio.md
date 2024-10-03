@@ -1,6 +1,7 @@
 ---
 # This file represents a page section.
-#headless: true
+headless: true
+widget: hero.slider
 
 title: ""
 type: landing
