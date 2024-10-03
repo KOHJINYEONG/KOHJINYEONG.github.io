@@ -94,7 +94,7 @@ features:
       repo_id: ""
       category: ""
       category_id: ""
-   search:
+  search:
     show_search: true
     show_theme_chooser: true
 
