@@ -2,7 +2,7 @@
 # This file represents a page section.
 widget: portfolio
 headless: true
-weight: 20
+weight: 40
 
 title: ""
 type: landing
