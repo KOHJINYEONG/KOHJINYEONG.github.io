@@ -37,10 +37,16 @@ header:
     blox: "navbar"
     align: center
     fixed_to_top: true
-    show_logo: false
+    logo:
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.svg"
+    show_logo: true
     show_language: true
     show_day_night: true
     highlight_active_link: false
+    show_search: true
+    show_theme_chooser: true
 
 footer:
   copyright:
@@ -88,10 +94,10 @@ features:
       repo_id: ""
       category: ""
       category_id: ""
-  search:
-      show_logo: true
-      show_theme_chooser: true
-  
+  #search:
+  #show_logo: true
+  #show_theme_chooser: true
+
   map:
     provider: "google_maps"
     api_key: "AIzaSyDAWMtlLomWV9QjZ7321283Y5JQi3fsFdg"
