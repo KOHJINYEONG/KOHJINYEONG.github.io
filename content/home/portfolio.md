@@ -1,7 +1,7 @@
 ---
 # This file represents a page section.
+widget: about.avatar
 headless: true
-widget: hero.slider
 
 title: ""
 type: landing
