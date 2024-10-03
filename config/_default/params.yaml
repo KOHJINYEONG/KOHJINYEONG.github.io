@@ -34,19 +34,17 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
-    align: center
+    align: r
     fixed_to_top: true
     logo:
-      text: "JINYEONG"
+      text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     show_logo: true
-    show_language: true
+    show_language: false
     show_day_night: true
     highlight_active_link: false
     show_search: true
-    show_theme_chooser: true
 
 footer:
   copyright:
@@ -67,7 +65,7 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
+    enable: false
     extra_languages:
       - r
       - latex
@@ -95,13 +93,16 @@ features:
       category: ""
       category_id: ""
   search:
-    show_search: true
-    show_theme_chooser: true
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
 
   map:
-    provider: "google_maps"
-    api_key: "AIzaSyDAWMtlLomWV9QjZ7321283Y5JQi3fsFdg"
-    show_logo: true
+    provider: 'mapnik'
+    api_key: ''
     zoom: 15
 
 extensions:

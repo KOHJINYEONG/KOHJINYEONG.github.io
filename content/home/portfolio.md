@@ -13,32 +13,52 @@ weight: 20
 title: ''
 subtitle: ''
 
-content:
-  # Page type to display. E.g. project.
-  page_type: project
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
-
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: introduce
-      tag: ML
-    - name: project
-      tag: CV
-    - name: study
-      tag: NLP
-
-design:
-  columns: '1'
-  view: masonry
-  flip_alt_rows: true
-  background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+sections:
+  - block: slider
+    content:
+      slides:
+      - title: AI
+        content: AI을 이용한 웹서비스
+        align: center
+        background:
+          image:
+            filename: AI.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: C++
+        content: C++ 마스터하기
+        align: left
+        background:
+          image:
+            filename: C.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: Welcome
+        content: 전북대학교 CSAI
+        align: right
+        background:
+          image:
+            filename: csai.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: 오시는 길
+          url: ../about/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 ---
+

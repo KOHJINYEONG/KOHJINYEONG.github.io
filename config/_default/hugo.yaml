@@ -19,13 +19,16 @@ cascade:
     commentable: true
     show_related: true
     show_breadcrumb: true
+    header:
+      navbar:
+        enable: true
 
 ############################
 ## LANGUAGE
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: true
+hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
