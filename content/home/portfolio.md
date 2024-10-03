@@ -1,6 +1,6 @@
 ---
 # This file represents a page section.
-headless: true
+#headless: true
 
 title: ""
 type: landing
